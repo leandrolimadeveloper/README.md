@@ -12,6 +12,7 @@ Love IT area in general!
 ![NestJS](https://img.shields.io/badge/NestJS-ea285c?style=for-the-badge&logo=NestJS&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgre-3265e6?style=for-the-badge&logo=postgresql&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-131723?style=for-the-badge&logo=prisma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC644?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-0849c9?style=for-the-badge&logo=docker&logoColor=white)
