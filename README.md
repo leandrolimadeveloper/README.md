@@ -7,8 +7,8 @@ Love IT area in general!
 
 ## Technologies </br>
 ### Back-end
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-212020?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-212020?style=for-the-badge&logo=fastify&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-ea285c?style=for-the-badge&logo=NestJS&logoColor=white)
@@ -29,7 +29,6 @@ Love IT area in general!
 ### Tools
 ![Docker](https://img.shields.io/badge/DOCKER-0849c9?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </hr>
@@ -39,5 +38,5 @@ Love IT area in general!
 <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="Reino Unido" width="24" height="16">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Espanha" width="24" height="16">
 
-Brazilian-Portuguese (native), English (intermediate), Spanish (intermediate-advanced)
+Brazilian-Portuguese (native), English (intermediate), Spanish (intermediate)
 
